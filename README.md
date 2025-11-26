@@ -1,6 +1,6 @@
 # ☕ Coffee Sales Dashboard
 
-An interactive and insightful **Coffee Sales Dashboard** built using Python. This project analyzes real-world coffee shop sales data and visualizes it to uncover trends, top products, category performance, and revenue contributors.
+An interactive and insightful **Coffee Sales Analysis** built using Python. This project analyzes real-world coffee shop sales data and visualizes it to uncover trends, top products, category performance, and revenue contributors.
 
 ---
 
