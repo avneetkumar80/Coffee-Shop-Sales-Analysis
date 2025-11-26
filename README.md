@@ -74,6 +74,10 @@ Streamlit prints the local and network URLs (default `http://localhost:8501`). A
 ---
 
 ## Dashboard Walkthrough
+<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/856d2776-646d-4e09-b14a-4f399684a240" />
+<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/8b1495f3-b3d6-4c52-bf86-5709dd232c19" />
+<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/ac2cf4f7-a358-4acd-8d23-bf5ba4e7d550" />
+<img width="1920" height="1080" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/9e0c10d7-121a-4e1e-a525-fc37e4fff8d8" />
 
 1. Sidebar Filters - choose months, categories, and locations; reset anytime.
 2. KPI Grid - compare filtered metrics vs overall totals.
@@ -97,3 +101,4 @@ Streamlit prints the local and network URLs (default `http://localhost:8501`). A
 ## Feedback
 
 Ideas for new visualizations? Found a bug? Open an issue or reach out on GitHub - always happy to chat over a virtual cup of coffee.
+
