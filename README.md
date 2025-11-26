@@ -1,4 +1,4 @@
-﻿# Coffee Sales Dashboard
+﻿# Coffee Sales Analysis
 
 Meet your go-to sales cockpit for coffee shops. This Streamlit app turns the raw `Coffee Shop Sales.csv` file into interactive KPIs, time-series trends, category leaders, and downloadable reports - perfect for demos, stakeholders, or rapid what-if analysis.
 
@@ -101,4 +101,5 @@ Streamlit prints the local and network URLs (default `http://localhost:8501`). A
 ## Feedback
 
 Ideas for new visualizations? Found a bug? Open an issue or reach out on GitHub - always happy to chat over a virtual cup of coffee.
+
 
